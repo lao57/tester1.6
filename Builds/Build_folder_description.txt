@@ -1,0 +1,1 @@
+This is a folder that can be used to hold all Simio builds to keep track of progress and share builds with others.
